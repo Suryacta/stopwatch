@@ -1,0 +1,11 @@
+.timer{
+    display: flex;
+    justify-content: center;
+    padding: 4%;
+    background-color: bisque;
+}
+.btn{
+    margin: 1%;
+    width: 10vw;
+    cursor: pointer;
+}
